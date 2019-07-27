@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\bin\Debug\netcoreapp2.2\Sabado27_07.deps.json
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\bin\Debug\netcoreapp2.2\Sabado27_07.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\bin\Debug\netcoreapp2.2\Sabado27_07.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\bin\Debug\netcoreapp2.2\Sabado27_07.dll
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\bin\Debug\netcoreapp2.2\Sabado27_07.pdb
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.dll
+C:\Users\Treinamento 2\source\repos\Sabado27_07\Sabado27_07\obj\Debug\netcoreapp2.2\Sabado27_07.pdb
